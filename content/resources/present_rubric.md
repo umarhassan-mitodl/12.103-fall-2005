@@ -4,6 +4,8 @@ description: This resource contains the instructions of presentations.
 file: /courses/12-103-strange-bedfellows-science-and-environmental-policy-fall-2005/85b0e8a5306af3f97b7739b0c2b7bd1f_present_rubric.pdf
 file_size: 100373
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: 'This resource discusses history, public perception, science of DDT
 file: /courses/12-103-strange-bedfellows-science-and-environmental-policy-fall-2005/41d39122e7f5a75936ccda95192e14b2_ddt_presentation.pdf
 file_size: 540634
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

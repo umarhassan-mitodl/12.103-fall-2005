@@ -4,6 +4,8 @@ description: This resource contains 6 questions based on policy decision.
 file: /courses/12-103-strange-bedfellows-science-and-environmental-policy-fall-2005/c61ff7cb1bc763b53c97cdaa2767f053_assignment_1.pdf
 file_size: 35742
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
