@@ -2,8 +2,6 @@
 content_type: page
 description: Syllabus section contains course overview, subject structure, assignments,
   prerequisites, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
